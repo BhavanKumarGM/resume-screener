@@ -48,8 +48,10 @@ Project Structure 📁
 Copy code
 resume_screener/
 
-│── app.py    # Main Flask app
+│── app.py              # Main Flask app
+
 │── utils.py            # Helper functions (file reading, scoring)
+
 │── templates/
 │    └── index.html     # HTML template (colorful UI)
 │── uploads/            # Temporary folder for resumes
