@@ -33,7 +33,6 @@ cd resume-screener
 Create a virtual environment (optional)
 
 
-Copy code
 python -m venv venv
 # Windows
 .\venv\Scripts\activate
@@ -53,6 +52,7 @@ resume_screener/
 │── utils.py            # Helper functions (file reading, scoring)
 
 │── templates/
+
      └── index.html     # HTML template (colorful UI)
 
 │── uploads/            # Temporary folder for resumes
@@ -64,7 +64,7 @@ resume_screener/
 
 -Flask 3.0.3 for web interface
 
--scikit-learn (TF-IDF + cosine similarity)
+-Scikit-learn (TF-IDF + cosine similarity)
 
 -PyPDF2 & docx2txt for parsing resumes
 
