@@ -31,9 +31,7 @@ Simplifies resume screening by analyzing resumes against a Job Description (JD) 
 git clone https://github.com/BhavanKumarGM/resume-screener.git
 cd resume-screener
 Create a virtual environment (optional)
-
-
-python -m venv venv
+        python -m venv venv
 # Windows
 .\venv\Scripts\activate
 # Linux/Mac
@@ -42,9 +40,8 @@ Install dependencies
 
 
 
-Project Structure 📁
+# Project Structure 📁
 
-Copy code
 resume_screener/
 
 │── app.py              # Main Flask app
