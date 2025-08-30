@@ -53,21 +53,24 @@ resume_screener/
 │── utils.py            # Helper functions (file reading, scoring)
 
 │── templates/
-│    └── index.html     # HTML template (colorful UI)
+     └── index.html     # HTML template (colorful UI)
+
 │── uploads/            # Temporary folder for resumes
+
 │── README.md           # Project documentation
-Tech Stack 🛠️
-Python 3.11
 
-Flask 3.0.3 for web interface
+# Tech Stack 🛠️
+-Python 3.11
 
-scikit-learn (TF-IDF + cosine similarity)
+-Flask 3.0.3 for web interface
 
-PyPDF2 & docx2txt for parsing resumes
+-scikit-learn (TF-IDF + cosine similarity)
 
-HTML/CSS for colorful UI
+-PyPDF2 & docx2txt for parsing resumes
 
-Future Enhancements ✨
+-HTML/CSS for colorful UI
+
+# Future Enhancements ✨
 Add OCR support for scanned PDFs.
 
 Build a dashboard for recruiters to manage multiple resumes.
@@ -76,7 +79,7 @@ Highlight missing keywords directly in resume.
 
 Add a progress bar for match score visualization.
 
-Author 🧑‍💻
+# Author 🧑‍💻
 Bhavan Kumar GM
 
 GitHub: BhavanKumarGM
