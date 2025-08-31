@@ -8,7 +8,6 @@
 Simplifies resume screening by analyzing resumes against a Job Description (JD) and scoring the relevance. Useful for **recruiters** and **job seekers** alike.
 
 ---
-
 ## Features 🚀
 
 - Upload **PDF, DOCX, or TXT** resumes or paste text directly.  
